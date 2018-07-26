@@ -1,0 +1,6 @@
+{
+  "lookupPaths": [
+    "auth/src/components/common",
+    "auth/src/components"
+  ]
+}
