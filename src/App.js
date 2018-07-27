@@ -1,5 +1,5 @@
-import React, {Component} from 'react';
-import { View} from 'react-native';
+import React, { Component } from 'react';
+import { View } from 'react-native';
 import firebase from 'firebase';
 import { Header, Button, Spinner } from './components/common';
 import LoginForm from './components/LoginForm';
@@ -60,6 +60,7 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
   }
-}
+};
+
 
 export default App;
